@@ -1,0 +1,155 @@
+
+.header .slider {background:url("../imge/ime.jpg");
+                height:600px;
+                width: 1500px;
+                background-size: cover;}
+
+.header .slider .intro { text-align: center; padding: 180px }
+.header .slider .intro h2{ 
+                    color:#FFFFFF; 
+                    font-size: 50px;
+                    border-top :4px solid #fff;
+                    border-bottom:  4px solid #fff;
+       
+                     }
+ .header .slider .intro button { background: none;
+                                margin top: 11px;
+                                width: 150px;
+                                height: 50px;
+                                color: #fff;
+                                font-size: 22px
+                            }    
+
+.header .navbar {background-color:#252F31;color:#FFF;overflow:hidden}
+
+.header .navbar h2 {color:#FFF}
+
+.header .navbar h2 span {color:#2ecc71} 
+
+.header .navbar ul {
+    list-style:none;
+    padding-left:0;
+    overflow:hidden;
+    float:right
+}
+
+.header .navbar ul li {float:left;padding:10px}
+
+.header .navbar ul li a {color:#FFF;text-decoration:none}
+.header .navbar ul li.active a,
+.header .navbar ul li a:hover {color:#30B576}
+
+.fl-left {float:left}
+.text-center {text-align:center}
+
+.clearfix {clear:both}
+
+.container {width:1170px;margin:auto}
+    
+
+.features{overflow: hidden; padding-top: 20px; padding-bottom: 10px}
+.features .container{ padding: 10px margin:10px;}
+.features .container .feat  { float: left; width: 33.33%}
+.features .container .feat p { line-height: 26px; color:#8e8181 }
+
+.aboutm { overflow: hidden; background: #F2F2F2 ; }
+.aboutm .image { width: 40% ;float:left;}
+.aboutm .image .imag {width: 100%}
+.aboutm .info {width: 60%;float: left;}
+.aboutm .info p { line-height: 23px;color: #6b5959}
+.aboutm .Hobbies{  margin: 20px}
+.aboutm .Hobbies > div { margin: 10px;  float: left;width: 25%; min-height: 100px}
+.aboutm .Hobbies > div p{line-height: 25px; color: #8e8181}
+
+
+
+.my-skills {
+    padding-top:30px;
+    padding-bottom:50px;
+    overflow:hidden
+}
+
+.my-skills .skills, 
+.my-skills .progress {width:50%}
+
+.my-skills .skills h2 {margin:25px 0 20px 40px}
+
+.my-skills .skills p {margin:0 0 10px 40px}
+
+.my-skills .skills p:last-of-type {margin-top:25px}
+
+.my-skills .skills my-button {margin-top:20px;margin-left:40px}
+.my-skills .skills button {margin-top:20px;margin-left:40px}
+
+.my-skills .progress .technique {margin-left:50px}
+
+.my-skills .progress .technique div {background-color:#F2F2F2;height:25px}
+
+.my-skills .progress .technique div span {
+    background-color:#2DCC70;
+    height:25px;
+    display:block;
+    line-height:25px;
+    text-align:right;
+    color:#FFF;
+    font-weight:bold}
+
+
+
+
+
+.Resume{line-height: 25px; text-align: center; overflow: hidden; padding: 20px ;margin: 10px}
+.Resumel .container .Resume {  width: 50%; float: left; }
+.Resumel .container .Resume  button  {
+    background:none;
+    margin-top:30px;
+    font-size:20px;
+    border:2px solid #FFF;
+    font-weight:bold;
+    padding:10px 30px;
+}
+
+
+
+.education { overflow: hidden; padding: 20px ;margin: 20px}
+.education .container .education{  width: 50%; float: left; }
+.education .container .myeducation{ width: 50%; float: left; }
+
+
+.Experience {  overflow: hidden; padding: 20px ;margin: 20px}
+.Experience .container .Experience{  width: 50%; float: left; }
+.Experience .container .wExperience{ width: 50%; float: left; }
+
+
+.ahmed{ background: #ddd;line-height: 30px; text-align: center; overflow: hidden; padding: 20px ;margin: 10px}
+
+.work .container { line-height: 30px; text-align: center; overflow: hidden;}
+ .work .owork { overflow: hidden; padding: 10px;padding-top:40px; padding-left:160px}
+ .work .owork> div { margin: 20px; float: left; }
+
+
+
+.contact .container { overflow: hidden;  background: #252F31}
+.contact .container .info h2 {color: #FFF}
+.contact .container .name h3 { color: #FFF}
+
+.contact .container .info{ width: 50%;  float: left;}
+.contact .container .name{  width: 50%; float: left;}
+
+
+.footer {
+    background-color:#191E22;
+    color:#6A6E71;
+    padding:20px ; 
+    padding-left:60px;
+    text-align:center;
+    overflow:hidden
+}
+
+
+.text-center {text-align:center}
+
+.clearfix {clear:both}
+
+.container {width:1170px;margin:auto}
+
